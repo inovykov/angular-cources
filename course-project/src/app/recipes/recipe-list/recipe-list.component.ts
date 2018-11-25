@@ -15,6 +15,7 @@ export class RecipeListComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    // make conflicted changes from branch "master"
   }
 
 }
